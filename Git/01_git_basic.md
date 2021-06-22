@@ -185,20 +185,30 @@ $ git clone https://github.com/hinpyo/TIL.git
 5. remote 에서 PULL 하기
 
 ```
-$ git 
+$ git pull origin master
 ```
 
 
 
+## 강의장 <-> 집 공부/프로젝트 시나리오
 
+> 앉을 때 PULL, 일어설 때 PUSH
 
-
-
-
-
-
-
-
+1. 집에서 기상
+2. 강의장 도착
+   1. `pull`
+3. 공부/TIL 정리
+   1. `commit`
+4. 강의 종료
+   1. `commit`
+   2. `push`
+5. 집 도착
+   1. `pull` (최초에만 `clone`)
+6. 복습
+   1. `commit`
+   2. `push`
+7. 잠
+8. Back to 1
 
 
 
