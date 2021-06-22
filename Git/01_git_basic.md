@@ -146,14 +146,17 @@ local 과 remote로 구분
 대표적 remote repo 플랫폼 github, bitbucket, gitlab
 
 1. github 에 repo 만들기
-2. local 과 연결하기
+2. local 과 remote 연결하기
 
 ```
 $ git remote add origin https://github.com/hinpyo/TIL.git
 $ git remote -v
 
+# 명령어 모음
 $ git remote --help
+# 리모트 삭제
 $ git remote remove <NAME>
+# 리모트 이름 변경
 $ git remote rename <old> <new>
 ```
 
@@ -163,16 +166,33 @@ $ git remote rename <old> <new>
 - help 눌러서 가능한 명령어 확인
 - remove 로 삭제, rename으로 이름 수정
 
-3. 업로드(push)
+3. remote 에 PUSH(업로드) 하기
 
 ```
+$ git push <name> <branch>
 $ git push origin master
 ```
 
 - git이 origin(별칭)으로 업로드(push)를 한다
 - git bash에 파란색 괄호에 master 혹은 main 이라 돼 있는걸로 따라서
 
-편집점 발생
+4. remote 에서 최초 CLONE 받기
+
+```
+$ git clone https://github.com/hinpyo/TIL.git
+```
+
+5. remote 에서 PULL 하기
+
+```
+$ git 
+```
+
+
+
+
+
+
 
 
 
