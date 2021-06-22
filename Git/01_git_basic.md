@@ -71,6 +71,24 @@ $ git commit (-m) "MESSAGE"
 
 
 
+## 잘못올린 commit 취소하기
+
+```
+$ git reset HEAD~
+```
+
+head 를 한 칸 뒤로(변경사항은 그대로 두고)
+
+```
+$ git reset --hard HEAD~
+```
+
+변경사항까지 되돌리기
+
+* GitHub 에서 공동작업시 reset 하면 꼬이기 쉬우니 주의
+
+
+
 ## 현재 상태 확인하기
 
 ```
@@ -104,6 +122,57 @@ i : 편집모드
 esc: 명령모드
 
 : : ??모드
+
+
+
+## 숙제
+
+1. 개발용 메일 준비
+2. 개발용 메일로 git config --global user.email ""
+3. 이 메일로 깃헙 가입
+   1. username에 대문자/공백 섞지않기
+   2. username이 개발자 닉네임
+
+
+
+
+
+## Git Repository
+
+local 과 remote로 구분
+
+1:N 구성이 가능(local repo : N remote repo)
+
+대표적 remote repo 플랫폼 github, bitbucket, gitlab
+
+1. github 에 repo 만들기
+2. local 과 연결하기
+
+```
+$ git remote add origin https://github.com/hinpyo/TIL.git
+$ git remote -v
+
+$ git remote --help
+$ git remote remove <NAME>
+$ git remote rename <old> <new>
+```
+
+- remote add 까지는 고정, origin 은 URL의 별칭(편하게 쓰기 위한, origin이 default 값), 뒤에는 URL
+- 주소 복사하고 `insert`누르면 편하게 
+- remote -v 로 확인하는듯
+- help 눌러서 가능한 명령어 확인
+- remove 로 삭제, rename으로 이름 수정
+
+3. 업로드(push)
+
+```
+$ git push origin master
+```
+
+- git이 origin(별칭)으로 업로드(push)를 한다
+- git bash에 파란색 괄호에 master 혹은 main 이라 돼 있는걸로 따라서
+
+편집점 발생
 
 
 
