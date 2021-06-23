@@ -1,5 +1,7 @@
 # :books: Today I Learned 
 
+>제목은 CV로 하겠습니다. 근데 이제 윾쾌함을 곁들인
+>
 >아래의 링크들을 참고하여 작성 예정
 https://www.notion.so/c47951185f404835a982ef97041e59fd
 https://github.com/namjunemy/TIL
