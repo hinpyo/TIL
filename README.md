@@ -3,11 +3,11 @@
 >아래의 링크들을 참고하여 작성 예정
 
 ### CV(Curriculum Vitae)
-https://www.notion.so/c47951185f404835a982ef97041e59fd
-https://jojoldu.github.io/
-https://hyunseob.github.io/resume/
-https://woowabros.github.io/experience/2017/07/17/resume.html
-prof.Nam CV
+https://www.notion.so/c47951185f404835a982ef97041e59fd 
+https://jojoldu.github.io/ 
+https://hyunseob.github.io/resume/ 
+https://woowabros.github.io/experience/2017/07/17/resume.html 
+prof.Nam CV 
 
 ### TIL(Today I Learned)
 https://github.com/namjunemy/TIL
