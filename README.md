@@ -7,6 +7,7 @@ https://www.notion.so/c47951185f404835a982ef97041e59fd
 https://jojoldu.github.io/  
 https://hyunseob.github.io/resume/  
 https://woowabros.github.io/experience/2017/07/17/resume.html  
+https://blog.outsider.ne.kr/1234  
 prof.Nam CV  
   
 ### TIL(Today I Learned)
