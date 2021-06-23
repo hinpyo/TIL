@@ -12,3 +12,5 @@ tmp
 속력 방향 달려온거리
 이모지는 : 뒤에 영어로 대강 적으면 나옴
 제목은 CV로 하겠습니다. 근데 이제 윾쾌함을 곁들인
+CS LNG FW Basics Domain book project ect LIC certificate
+마크다운 노션 io
