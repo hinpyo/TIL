@@ -17,7 +17,7 @@ https://github.com/ksu3101/TIL
 https://github.com/wbluke/TIL  
 
 ### TODO
-TIL CV 항목 결정  
+CV TIL 항목 결정  
 적절한 이모지 search  
 markdown & notion 사용법  
 github.io page 작성법  
