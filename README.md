@@ -1,7 +1,9 @@
 # :books: Today I Learned 
 
->아래의 링크들을 참고하여 작성 예정
+>배우고 익히는 나의 즐거움
 
+아래의 링크들을 참고하여 작성 예정  
+  
 ### CV(Curriculum Vitae)
 https://www.notion.so/c47951185f404835a982ef97041e59fd  
 https://jojoldu.github.io/  
