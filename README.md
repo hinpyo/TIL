@@ -6,6 +6,7 @@
 안다/들어봤다 쉽게 최대한 짧게  
 대충 빨리 잘 agile  
 지속가능한 성장  
+어제보다 오늘 더 나은  
 
 ### CV(Curriculum Vitae)
 https://www.notion.so/c47951185f404835a982ef97041e59fd  
