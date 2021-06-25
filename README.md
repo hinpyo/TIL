@@ -13,6 +13,7 @@ https://jojoldu.github.io/
 https://hyunseob.github.io/resume/  
 https://woowabros.github.io/experience/2017/07/17/resume.html  
 https://blog.outsider.ne.kr/1234  
+http://milooy.github.io/TIL/  
 prof.Nam CV  
   
 ### TIL(Today I Learned)
