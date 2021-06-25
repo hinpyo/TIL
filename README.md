@@ -23,12 +23,18 @@ https://wayhome25.github.io/
 https://github.com/ksu3101/TIL  
 https://github.com/wbluke/TIL  
 
+### emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
+
+### Markdown
+https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/  
+https://gist.github.com/ninanung/22266a9c7afbece6d899e1927248b85b  
+
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
 https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1  
 https://github.com/sproogen/modern-resume-theme  
 http://milooy.github.io/TIL/  
-
 
 ### TODO
 CV TIL 항목 결정  
