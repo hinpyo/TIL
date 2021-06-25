@@ -13,7 +13,6 @@ https://jojoldu.github.io/
 https://hyunseob.github.io/resume/  
 https://woowabros.github.io/experience/2017/07/17/resume.html  
 https://blog.outsider.ne.kr/1234  
-http://milooy.github.io/TIL/  
 prof.Nam CV  
   
 ### TIL(Today I Learned)
@@ -22,6 +21,12 @@ https://github.com/milooy/TIL
 https://wayhome25.github.io/  
 https://github.com/ksu3101/TIL  
 https://github.com/wbluke/TIL  
+
+### Github Pages
+https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
+https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1  
+http://milooy.github.io/TIL/  
+
 
 ### TODO
 CV TIL 항목 결정  
