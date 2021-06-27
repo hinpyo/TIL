@@ -36,6 +36,7 @@ https://ansohxxn.github.io/blog/markdown/
 https://better-dev.netlify.app/etc/2019/02/12/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4_%EC%B6%94%EA%B0%80/  
 https://codedragon.tistory.com/11889  
 https://tttsss77.tistory.com/149  
+https://www.tablesgenerator.com/markdown_tables  
 
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
@@ -47,7 +48,8 @@ http://milooy.github.io/TIL/
 CV TIL 항목 결정  
 적절한 이모지 search  
 markdown & notion 사용법  
-github.io page 작성법  
+github.io page 작성법 
+git wiki  
 hit stat  
 
 ### temp
