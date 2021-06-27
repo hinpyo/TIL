@@ -29,6 +29,11 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 ### Markdown
 https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/  
 https://gist.github.com/ninanung/22266a9c7afbece6d899e1927248b85b  
+https://nolboo.kim/blog/2014/03/25/github-flavored-markdown/  
+https://github.com/pillarorigin/TIL/blob/master/%EB%A7%88%ED%81%AC%20%EB%8B%A4%EC%9A%B4%20%EC%9E%90%EC%A3%BC%20%EC%93%B0%EB%8A%94%20%EB%8B%A8%EC%B6%95%ED%82%A4.md  
+https://velog.io/@hidaehyunlee/Typora%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EC%82%AC%EC%9A%A9%EB%B2%95  
+https://ansohxxn.github.io/blog/markdown/  
+https://better-dev.netlify.app/etc/2019/02/12/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4_%EC%B6%94%EA%B0%80/  
 
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
