@@ -27,6 +27,8 @@ https://github.com/wbluke/TIL
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 
 ### Markdown
+https://guides.github.com/features/mastering-markdown/  
+https://gist.github.com/ihoneymon/652be052a0727ad59601  
 https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/  
 https://gist.github.com/ninanung/22266a9c7afbece6d899e1927248b85b  
 https://nolboo.kim/blog/2014/03/25/github-flavored-markdown/  
@@ -38,11 +40,16 @@ https://codedragon.tistory.com/11889
 https://tttsss77.tistory.com/149  
 https://www.tablesgenerator.com/markdown_tables  
 
+###emoji
+https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
+https://emojipedia.org/objects/  
+
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
 https://velog.io/@zawook/Github-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1  
 https://github.com/sproogen/modern-resume-theme  
 http://milooy.github.io/TIL/  
+https://www.sauru.so/blog/migration-from-tistory/  
 
 ### TODO
 CV TIL 항목 결정  
