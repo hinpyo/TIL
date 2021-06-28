@@ -26,6 +26,7 @@ https://github.com/wbluke/TIL
 ### emoji
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 https://emojipedia.org/objects/  
+https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
 
 ### Markdown
 https://guides.github.com/features/mastering-markdown/  
@@ -40,10 +41,6 @@ https://better-dev.netlify.app/etc/2019/02/12/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%
 https://codedragon.tistory.com/11889  
 https://tttsss77.tistory.com/149  
 https://www.tablesgenerator.com/markdown_tables  
-
-###emoji
-https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
-https://emojipedia.org/objects/  
 
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
