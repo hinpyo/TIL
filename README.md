@@ -25,6 +25,7 @@ https://github.com/wbluke/TIL
 
 ### emoji
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
+https://emojipedia.org/objects/  
 
 ### Markdown
 https://guides.github.com/features/mastering-markdown/  
