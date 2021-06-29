@@ -2,8 +2,6 @@
 
 >배우고 익히는 나의 즐거움
 
-[인용문](#5-인용문blockquotes)
-
 아래의 링크들을 참고하여 작성 예정  
 안다/들어봤다 쉽게 최대한 짧게  
 대충 빨리 잘 agile  
@@ -47,6 +45,7 @@ https://better-dev.netlify.app/etc/2019/02/12/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%
 https://codedragon.tistory.com/11889  
 https://tttsss77.tistory.com/149  
 https://www.tablesgenerator.com/markdown_tables  
+https://ansohxxn.github.io/blog/markdown/  
 
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
@@ -65,61 +64,4 @@ hit stat
 ### temp
 제목은 CV로 하겠습니다. 근데 이제 유우머를 곁들인  
 속력 방향 달려온거리  
-
-
-### 5. 인용문(Blockquotes)
-
-```
-코난 오브라이언이 말하길:
-
-> 가장 걱정하던 일이 실제로 일어나는 것만큼
-> 우리를 더 자유롭게 만드는 일은 찾기 힘듭니다.
-```
-
-코난 오브라이언이 말하길:
-
-> 가장 걱정하던 일이 실제로 일어나는 것만큼
-> 우리를 더 자유롭게 만드는 일은 찾기 힘듭니다.
-
-### 
-
-```
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-숨겨왔던 나의~
-
-</div>
-</details>
-```
-
-<details>
-<summary>접기/펼치기 버튼</summary>
-<div markdown="1">
-
-
-숨겨왔던 나의~
-
-</div>
-</details>
-
-
-
-```
-<details markdown="1">
-<summary>접기/펼치기</summary>
-
-뽕뽕
-</details>
-```
-
-<details markdown="1">
-<summary>접기/펼치기</summary>
-
-뽕뽕
-
-</details>
-
-
 
