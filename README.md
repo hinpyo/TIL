@@ -67,5 +67,4 @@ hit stat
 
 <a href="#books-today-i-learned" class="btn">맨 위로</a>
 
-![Image of Yaktocat][참조]
-[참조]: https://octodex.github.com/images/yaktocat.png "Tooltip: Yaktocat"
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "Tooltip: Yaktocat")
