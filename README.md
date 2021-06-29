@@ -65,3 +65,12 @@ hit stat
 제목은 CV로 하겠습니다. 근데 이제 유우머를 곁들인  
 속력 방향 달려온거리  
 
+### 
+
+```
+<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
+{: .small}
+```
+
+<cite>Steve Jobs</cite> --- Apple Worldwide Developers' Conference, 1997
+{: .small}
