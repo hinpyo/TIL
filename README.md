@@ -65,4 +65,4 @@ hit stat
 제목은 CV로 하겠습니다. 근데 이제 유우머를 곁들인  
 속력 방향 달려온거리  
 
-<a href="#-today-i-learned" class="btn">맨 위로</a>
+<a href="#cvcurriculum-vitae" class="btn">맨 위로</a>
