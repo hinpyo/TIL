@@ -30,7 +30,7 @@ https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80
 
 ### Markdown
 https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4  
-https://guides.github.com/features/mastering-markdown/ 
+https://guides.github.com/features/mastering-markdown/  
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 https://gist.github.com/ihoneymon/652be052a0727ad59601  
 
@@ -65,6 +65,4 @@ hit stat
 제목은 CV로 하겠습니다. 근데 이제 유우머를 곁들인  
 속력 방향 달려온거리  
 
-<a href="#books-today-i-learned" class="btn">맨 위로</a>
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png "Tooltip: Yaktocat")
