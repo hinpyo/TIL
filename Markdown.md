@@ -12,11 +12,11 @@
 
 ## 목차(Index)
 
-[마크다운 문법(Markdown Syntax)](#마크다운-문법markdown-syntax)
+[마크다운 문법(Markdown Syntax)](#마크다운-문법markdown-syntax)  
 
-​	[1.문단 제목(Headers)](#1-문단-제목headers)
+​	[1.문단 제목(Headers)](#1-문단-제목headers)  
 
-​	[2.수평선(Horizontal Rules)](#2-수평선horizontal-rules)
+​	[2.수평선(Horizontal Rules)](#2-수평선horizontal-rules)  
 
 ​	[3.본문](#3-본문)
 
