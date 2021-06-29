@@ -1,4 +1,4 @@
-# :books: Today I Learned
+# :books:Today I Learned
 
 >배우고 익히는 나의 즐거움
 
