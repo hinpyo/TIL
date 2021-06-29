@@ -81,3 +81,43 @@ hit stat
 > 가장 걱정하던 일이 실제로 일어나는 것만큼
 > 우리를 더 자유롭게 만드는 일은 찾기 힘듭니다.
 
+### 
+
+```
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+숨겨왔던 나의~
+
+</div>
+</details>
+```
+
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+
+숨겨왔던 나의~
+
+</div>
+</details>
+
+```
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+</details>
+```
+
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+</details>
+
