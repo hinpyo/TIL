@@ -33,7 +33,6 @@ https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
 https://guides.github.com/features/mastering-markdown/  
 https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
 https://gist.github.com/ihoneymon/652be052a0727ad59601  
-
 https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/  
 https://gist.github.com/ninanung/22266a9c7afbece6d899e1927248b85b  
 https://nolboo.kim/blog/2013/09/07/john-gruber-markdown/  
