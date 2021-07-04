@@ -25,7 +25,7 @@ https://codedragon.tistory.com/11889
 https://tttsss77.tistory.com/149  
 https://www.tablesgenerator.com/markdown_tables  
 https://ansohxxn.github.io/blog/markdown/  
-**emoji
+**emoji  
 https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
 https://emojipedia.org/objects/  
 https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
