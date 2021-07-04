@@ -19,7 +19,7 @@
 여기서부터
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hinpyo)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbluke)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=torvalds)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Markdown
 https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4  
