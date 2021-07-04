@@ -8,26 +8,6 @@
 지속가능한 성장  
 어제보다 오늘 더 나은  
 
-### CV(Curriculum Vitae)
-https://www.notion.so/c47951185f404835a982ef97041e59fd  
-https://jojoldu.github.io/  
-https://hyunseob.github.io/resume/  
-https://woowabros.github.io/experience/2017/07/17/resume.html  
-https://blog.outsider.ne.kr/1234  
-prof.Nam CV  
-  
-### TIL(Today I Learned)
-https://github.com/namjunemy/TIL  
-https://github.com/milooy/TIL  
-https://wayhome25.github.io/  
-https://github.com/ksu3101/TIL  
-https://github.com/wbluke/TIL  
-
-### emoji
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
-https://emojipedia.org/objects/  
-https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
-
 ### Markdown
 https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4  
 https://guides.github.com/features/mastering-markdown/  
@@ -45,6 +25,17 @@ https://codedragon.tistory.com/11889
 https://tttsss77.tistory.com/149  
 https://www.tablesgenerator.com/markdown_tables  
 https://ansohxxn.github.io/blog/markdown/  
+**emoji
+https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md  
+https://emojipedia.org/objects/  
+https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%AA%A8%EC%A7%80  
+
+### TIL(Today I Learned)
+https://github.com/namjunemy/TIL  
+https://github.com/milooy/TIL  
+https://wayhome25.github.io/  
+https://github.com/ksu3101/TIL  
+https://github.com/wbluke/TIL  
 
 ### Github Pages
 https://dreamgonfly.github.io/blog/jekyll-remote-theme/  
@@ -53,14 +44,21 @@ https://github.com/sproogen/modern-resume-theme
 http://milooy.github.io/TIL/  
 https://www.sauru.so/blog/migration-from-tistory/  
 
-### TODO
-CV TIL 항목 결정  
-적절한 이모지 search  
-markdown & notion 사용법  
-Github pages, wiki, gist, project boards, action  
-hit stat  
-
-### temp
+### CV(Curriculum Vitae)
+https://www.notion.so/c47951185f404835a982ef97041e59fd  
+https://jojoldu.github.io/  
+https://hyunseob.github.io/resume/  
+https://woowabros.github.io/experience/2017/07/17/resume.html  
+https://blog.outsider.ne.kr/1234  
+prof.Nam CV  
 제목은 CV로 하겠습니다. 근데 이제 유우머를 곁들인  
 속력 방향 달려온거리  
+
+### TODO
+markdown 마무리 (이모지 추가)  
+git 복습, TIL 정리  
+notion evernote  
+Github pages, hit stat  
+CV 작성  
+wiki, gist, project boards, action  
 
