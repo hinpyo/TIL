@@ -46,7 +46,7 @@ AS는 생략 가능함
 
 **row를 선택하는 조건**  
 
-- 없어도 됨
+- 생략 가능
 
 - AND, OR 로 조건식 연결
 
@@ -74,7 +74,7 @@ col과 literal 을 연결할 수 있음
 AND OR NOT
 ```
 
-![논리 연산자 연산 결과](01_SQL.assets/논리 연산자 연산 결과.PNG "논리 연산자 연산 결과")
+![논리 연산자 연산 결과](01_SQL.assets/logical operator.PNG "논리 연산자 연산 결과")
 
 
 
