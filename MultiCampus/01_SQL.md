@@ -226,3 +226,5 @@ RPAD(string, N, [str])
 
 **행의 집합에 적용되어 Output을 1개만 출력**
 
+
+
