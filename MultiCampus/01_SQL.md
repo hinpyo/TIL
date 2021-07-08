@@ -74,7 +74,7 @@ col과 literal 을 연결할 수 있음
 AND OR NOT
 ```
 
-![논리 연산자 연산 결과](01_SQL.assets/logical operator.PNG "논리 연산자 연산 결과")
+![논리 연산자 연산 결과](./01_SQL.assets/논리 연산자 연산 결과.PNG "논리 연산자 연산 결과")
 
 
 
