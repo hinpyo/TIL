@@ -64,4 +64,3 @@ notion evernote
 Github pages, hit stat  
 CV 작성  
 wiki, gist, project boards, action  
-
