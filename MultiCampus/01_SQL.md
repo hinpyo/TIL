@@ -219,7 +219,6 @@ RPAD(string, N, [str])
 
 
 
-
 ### 그룹 함수(Group Fuction)
 
 **행의 집합에 적용되어 Output을 1개만 출력**
