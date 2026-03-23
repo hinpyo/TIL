@@ -62,6 +62,7 @@ def hello():
 줄바꿈<br>br
 아래첨자<sub>sub</sub>  
 위첨자<sup>sup</sup>  
+<details><summary>접기/펼치기</summary>내용</details>
 
 여기서 부턴 수식(LaTeX 문법)
 ---
@@ -75,9 +76,9 @@ $\sqrt{x}$        #  루트
 $\sum_{i=1}^n i$  #  시그마  
 $\int_0^1 x\,dx$  #  적분  
 $\alpha, \beta$   #  그리스 문자  
-  
+
+블록수식  
 ```math
-블록수식
 x^2 + y^2 = z^2
 ```
 
