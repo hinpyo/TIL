@@ -56,9 +56,27 @@ def hello():
   
 \# 특수문자 쓰고싶을 때 이스케이프
   
-여기서부턴 HTML 의존
+여기서 부턴 HTML 의존
 ---
-자동링크<https://google.com>  
+링크직접첨부: <https://google.com>  
 br<br>br</br>  
 sub<sub>sub</sub>  
 sup<sup>sup</sup>  
+
+여기서 부턴 수식(LaTeX 문법)
+---
+인라인 수식: $x^2 + y^2 = z^2$
+
+$a+b$               그냥 식  
+$x^2$               제곱  
+$x_1$               아래첨자  
+$\frac{a}{b}$       분수  
+$\sqrt{x}$          루트  
+$\sum_{i=1}^n i$    시그마  
+$\int_0^1 x\,dx$    적분  
+$\alpha, \beta$     그리스 문자  
+  
+블록 수식:  
+$$$
+x^2 + y^2 = z^2
+$$$
