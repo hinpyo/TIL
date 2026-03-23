@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "35c73716c49d0a8f",
+    "id": "7999238935de9789",
     "type": "split",
     "children": [
       {
-        "id": "918a44c236b4a482",
+        "id": "33a53dcfddb01130",
         "type": "tabs",
         "children": [
           {
-            "id": "0cfcbc3b024abe7c",
+            "id": "affc1880463a7744",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "practice_markdown.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "practice_markdown"
+              "title": "README"
             }
           }
         ]
@@ -27,11 +27,11 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "62f4e1d963ade7c4",
+    "id": "df1ed2aae1e761fe",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2d7db847a055dd50",
+        "id": "12225dd60da8b078",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -44,7 +44,7 @@
         }
       },
       {
-        "id": "53728e00d75b36a5",
+        "id": "eb2ae7c172fb0297",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -61,7 +61,7 @@
         }
       },
       {
-        "id": "00e63dd758f8d6d1",
+        "id": "505d5125a5c3e9cb",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -76,7 +76,7 @@
         }
       },
       {
-        "id": "2e6c1e17e3e30718",
+        "id": "ab1b95fd5fe6a3a2",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -90,7 +90,7 @@
         }
       },
       {
-        "id": "a551955627be59f1",
+        "id": "7d5c910ba6fb5807",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -103,16 +103,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "437e4a3f2ea52323",
+    "id": "988b48e5f06a6209",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "2a9d5727cab30e38",
+        "id": "cc184f2f21375ed5",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "practice_markdown.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,12 +125,11 @@
         }
       },
       {
-        "id": "1e1877cb0d5a1f74",
+        "id": "b412a718b7b56811",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "practice_markdown.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -140,12 +138,12 @@
         }
       },
       {
-        "id": "a547454c21f8aa9c",
+        "id": "59cd548a433aafc2",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "practice_markdown.md",
+            "file": "test.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +153,7 @@
         }
       },
       {
-        "id": "11ddd443a611cdcd",
+        "id": "d255020cd02ea758",
         "type": "leaf",
         "state": {
           "type": "git-view",
@@ -179,10 +177,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0cfcbc3b024abe7c",
+  "active": "d255020cd02ea758",
   "lastOpenFiles": [
-    "practice_markdown.md",
     "README.md",
+    "test.md",
+    "무제.base",
+    "practice_markdown.md",
     "MultiCampus/01_SQL.assets/주요 단일 행 함수.PNG",
     "MultiCampus/01_SQL.assets/연산자 우선 순위.PNG",
     "MultiCampus/01_SQL.assets/주요 비교 연산자.PNG",
