@@ -59,7 +59,8 @@ def hello():
 여기서 부턴 HTML 의존
 ---
 링크직접첨부: <https://google.com>  
-줄바꿈<br>br
+줄바꿈<br>br  
+<ins>밑줄</ins>  
 아래첨자<sub>sub</sub>  
 위첨자<sup>sup</sup>  
 <details><summary>접기/펼치기</summary>내용</details>
