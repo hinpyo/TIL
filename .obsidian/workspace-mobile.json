@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7999238935de9789",
+    "type": "split",
+    "children": [
+      {
+        "id": "33a53dcfddb01130",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "affc1880463a7744",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "38eba1903520df61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df1ed2aae1e761fe",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "12225dd60da8b078",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "파일 탐색기"
+        }
+      },
+      {
+        "id": "eb2ae7c172fb0297",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "검색"
+        }
+      },
+      {
+        "id": "505d5125a5c3e9cb",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "태그"
+        }
+      },
+      {
+        "id": "ab1b95fd5fe6a3a2",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "모든 속성"
+        }
+      },
+      {
+        "id": "7d5c910ba6fb5807",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "북마크"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "988b48e5f06a6209",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "cc184f2f21375ed5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "test.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "백링크"
+        }
+      },
+      {
+        "id": "b412a718b7b56811",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "test.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "나가는 링크"
+        }
+      },
+      {
+        "id": "59cd548a433aafc2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "test.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "개요"
+        }
+      },
+      {
+        "id": "d255020cd02ea758",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "38eba1903520df61",
+  "lastOpenFiles": [
+    "README.md",
+    "test.md",
+    "무제.base",
+    "practice_markdown.md",
+    "MultiCampus/01_SQL.assets/주요 단일 행 함수.PNG",
+    "MultiCampus/01_SQL.assets/연산자 우선 순위.PNG",
+    "MultiCampus/01_SQL.assets/주요 비교 연산자.PNG",
+    "MultiCampus/01_SQL.assets/논리 연산자 연산 결과.PNG",
+    "MultiCampus/01_SQL.assets",
+    "MultiCampus/01_SQL.md",
+    "MultiCampus",
+    "etc/Mardown/Markdown.assets/busan.jpg",
+    "etc/Mardown/Markdown.assets",
+    "etc/Mardown/Markdown.md",
+    "etc/Mardown/markdown_old.md",
+    "etc/Git/01_git_basic.md",
+    "etc/Git/02_git_im.md",
+    "etc/Mardown",
+    "etc/Git",
+    "etc"
+  ]
+}
