@@ -32,7 +32,8 @@
 ![이미지링크](https://github.com/weaveatelier/.github/blob/main/profile/assets/Weave_Apps.png)  
 
 >인용  
->>인용 중첩  
+>>인용 중첩
+>>>인용 3중첩
 
 `print(code)`
 
@@ -43,6 +44,7 @@ def hello():
 
 구분선
 ---
+굵은구분선
 ***
 
 |왼쪽|가운데|오른|
@@ -56,7 +58,7 @@ def hello():
   
 여기서부턴 HTML 의존
 ---
-
-br<br>br</br>
-sub<sub>sub</sub>
-sup<sup>sup</sup>
+자동링크<https://google.com>  
+br<br>br</br>  
+sub<sub>sub</sub>  
+sup<sup>sup</sup>  
