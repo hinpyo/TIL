@@ -59,9 +59,9 @@ def hello():
 여기서 부턴 HTML 의존
 ---
 링크직접첨부: <https://google.com>  
-br<br>br</br>  
-sub<sub>sub</sub>  
-sup<sup>sup</sup>  
+줄바꿈<br>br
+아래첨자<sub>sub</sub>  
+위첨자<sup>sup</sup>  
 
 여기서 부턴 수식(LaTeX 문법)
 ---
@@ -84,7 +84,11 @@ x^2 + y^2 = z^2
 여기서 부턴 GitHub 확장 문법
 ---
 > [!NOTE]
-> 내용
+> 내용  
 
+[섹션링크](#제목1)  
+[문서링크](/README.md)
+  
+:smile: 이모지
 @hinpyo 맨션
 #123 이슈/PR 링크
