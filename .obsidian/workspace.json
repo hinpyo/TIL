@@ -164,16 +164,27 @@
               "icon": "lucide-list",
               "title": "practice_markdown 의 개요"
             }
+          },
+          {
+            "id": "04e7574a79cb31f2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:빠른 전환기 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -183,7 +194,7 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "84e215a8478d54e7",
+  "active": "630fe065ecb1e426",
   "lastOpenFiles": [
     "etc/Git/02_git_im.md",
     "practice_markdown.md",
